@@ -1,2 +1,2 @@
 # xunorus
-My jekyll blow ajaxed website
+My jekyll blog ajaxed website
